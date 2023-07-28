@@ -10,6 +10,11 @@
     justify-content: space-around;
 }
 
+.nav_black{
+    background: transparent;
+    background-color: #002035;
+}
+
 .logo{
     display: flex;
     align-items: center;

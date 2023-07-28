@@ -34,5 +34,23 @@
   -webkit-text-stroke: 0.7px var(--text-color);
   font-size: 45px;
   box-shadow: var(--main-color);
-  
+}
+
+.btn-box {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  width: 24.5rem;
+  height: 5rem;
+  margin-left: 5rem;
+}
+
+.btn-box .btn {
+  position: relative;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 8rem;
+  height: 70%;
+  background: var(--main-color);
 }

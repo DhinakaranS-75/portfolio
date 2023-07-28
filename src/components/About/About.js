@@ -4,11 +4,11 @@ import "./About.css";
 function About() {
   return (
     <div>
-      <section className="about section" id="about">
+      <div className="about" >
         <div className="about-content">
-          <h1>About Me</h1>
+          About Me
         </div>
-      </section>
+      </div>
     </div>
   );
 }

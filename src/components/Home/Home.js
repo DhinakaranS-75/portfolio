@@ -42,7 +42,10 @@ function Home() {
             and publishing industries for previewing layouts and visual mockups
           </p>
 
-          <div className="btn-box"></div>
+          <div className="btn-box">
+            <a href="/images/myw3schoolsimage.jpg" className="btn" download>Resume</a>
+            <a href="#contact" className="btn">Contact Me</a>
+          </div>
         </div>
       </section>
     </div>
